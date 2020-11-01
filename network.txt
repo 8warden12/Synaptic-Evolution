@@ -1,0 +1,2946 @@
+Neurons: 100
+Index: 0 Type: 1 Num_IB: 26 Num_OB: 29
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 1 Type: 1 Num_IB: 19 Num_OB: 28
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 2 Type: 1 Num_IB: 23 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 3 Type: 1 Num_IB: 24 Num_OB: 26
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 4 Type: 1 Num_IB: 21 Num_OB: 28
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 5 Type: 1 Num_IB: 37 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 6 Type: 1 Num_IB: 24 Num_OB: 25
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 7 Type: 1 Num_IB: 29 Num_OB: 27
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 8 Type: 1 Num_IB: 26 Num_OB: 27
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 9 Type: 1 Num_IB: 26 Num_OB: 29
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 10 Type: 1 Num_IB: 33 Num_OB: 27
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 11 Type: 1 Num_IB: 31 Num_OB: 27
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 12 Type: 1 Num_IB: 28 Num_OB: 24
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 13 Type: 1 Num_IB: 28 Num_OB: 29
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 14 Type: 1 Num_IB: 24 Num_OB: 27
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 15 Type: 1 Num_IB: 22 Num_OB: 30
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 16 Type: 0 Num_IB: 32 Num_OB: 24
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 17 Type: 0 Num_IB: 32 Num_OB: 29
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 18 Type: 0 Num_IB: 23 Num_OB: 26
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 19 Type: 0 Num_IB: 32 Num_OB: 29
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 20 Type: 0 Num_IB: 27 Num_OB: 26
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 21 Type: 0 Num_IB: 24 Num_OB: 29
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 22 Type: 0 Num_IB: 26 Num_OB: 27
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 23 Type: 0 Num_IB: 19 Num_OB: 25
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 24 Type: 0 Num_IB: 28 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 25 Type: 0 Num_IB: 28 Num_OB: 27
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 26 Type: 0 Num_IB: 27 Num_OB: 24
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 27 Type: 0 Num_IB: 32 Num_OB: 26
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 28 Type: 0 Num_IB: 35 Num_OB: 25
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 29 Type: 0 Num_IB: 17 Num_OB: 27
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 30 Type: 0 Num_IB: 35 Num_OB: 27
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 31 Type: 0 Num_IB: 31 Num_OB: 28
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 32 Type: 0 Num_IB: 28 Num_OB: 24
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 33 Type: 0 Num_IB: 25 Num_OB: 28
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 34 Type: 0 Num_IB: 27 Num_OB: 29
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 35 Type: 0 Num_IB: 28 Num_OB: 24
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 36 Type: 0 Num_IB: 31 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 37 Type: 0 Num_IB: 23 Num_OB: 28
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 38 Type: 0 Num_IB: 28 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 39 Type: 0 Num_IB: 20 Num_OB: 27
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 40 Type: 0 Num_IB: 22 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 41 Type: 0 Num_IB: 24 Num_OB: 28
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 42 Type: 0 Num_IB: 33 Num_OB: 25
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 43 Type: 0 Num_IB: 26 Num_OB: 25
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 44 Type: 0 Num_IB: 24 Num_OB: 28
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 45 Type: 0 Num_IB: 25 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 46 Type: 0 Num_IB: 30 Num_OB: 27
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 47 Type: 0 Num_IB: 21 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 48 Type: 0 Num_IB: 23 Num_OB: 25
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 49 Type: 0 Num_IB: 26 Num_OB: 28
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 50 Type: 0 Num_IB: 30 Num_OB: 27
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 51 Type: 0 Num_IB: 24 Num_OB: 25
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 52 Type: 0 Num_IB: 19 Num_OB: 28
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 53 Type: 0 Num_IB: 32 Num_OB: 27
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 54 Type: 0 Num_IB: 27 Num_OB: 23
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 55 Type: 0 Num_IB: 14 Num_OB: 26
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 56 Type: 0 Num_IB: 30 Num_OB: 28
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 57 Type: 0 Num_IB: 34 Num_OB: 26
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 58 Type: 0 Num_IB: 25 Num_OB: 27
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 59 Type: 0 Num_IB: 37 Num_OB: 27
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 60 Type: 0 Num_IB: 23 Num_OB: 26
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 61 Type: 0 Num_IB: 25 Num_OB: 25
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 62 Type: 0 Num_IB: 22 Num_OB: 25
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 63 Type: 0 Num_IB: 25 Num_OB: 24
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 64 Type: 0 Num_IB: 17 Num_OB: 27
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 65 Type: 0 Num_IB: 25 Num_OB: 25
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 66 Type: 0 Num_IB: 26 Num_OB: 25
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 67 Type: 0 Num_IB: 29 Num_OB: 24
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 68 Type: 0 Num_IB: 22 Num_OB: 26
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 69 Type: 0 Num_IB: 29 Num_OB: 27
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 70 Type: 0 Num_IB: 27 Num_OB: 28
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 71 Type: 0 Num_IB: 21 Num_OB: 26
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 72 Type: 0 Num_IB: 30 Num_OB: 27
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 73 Type: 0 Num_IB: 22 Num_OB: 27
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 74 Type: 0 Num_IB: 34 Num_OB: 28
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 75 Type: 0 Num_IB: 21 Num_OB: 24
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 76 Type: 0 Num_IB: 28 Num_OB: 27
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 77 Type: 0 Num_IB: 38 Num_OB: 25
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 78 Type: 0 Num_IB: 25 Num_OB: 24
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 79 Type: 0 Num_IB: 31 Num_OB: 27
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 80 Type: 0 Num_IB: 25 Num_OB: 27
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 81 Type: 0 Num_IB: 23 Num_OB: 27
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 82 Type: 0 Num_IB: 28 Num_OB: 25
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 83 Type: 0 Num_IB: 21 Num_OB: 24
+SenderID: 0 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 84 Type: 2 Num_IB: 22 Num_OB: 28
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 85 Type: 2 Num_IB: 20 Num_OB: 27
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 86 Type: 2 Num_IB: 34 Num_OB: 24
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 87 Type: 2 Num_IB: 23 Num_OB: 28
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 51 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 63 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 88 Type: 2 Num_IB: 27 Num_OB: 29
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 89 Type: 2 Num_IB: 28 Num_OB: 28
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 90 Type: 2 Num_IB: 22 Num_OB: 21
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 91 Type: 2 Num_IB: 27 Num_OB: 27
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 47 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 83 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 92 Type: 2 Num_IB: 25 Num_OB: 28
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 27 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 32 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 59 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 68 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 93 Type: 2 Num_IB: 29 Num_OB: 26
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 4 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 8 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 35 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 43 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 72 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 81 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 92 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 95 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 94 Type: 2 Num_IB: 27 Num_OB: 26
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 29 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 97 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 98 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 95 Type: 2 Num_IB: 25 Num_OB: 29
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 16 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 30 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 40 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 74 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 78 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 99 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 96 Type: 2 Num_IB: 31 Num_OB: 24
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 10 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 17 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 19 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 20 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 21 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 42 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 45 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 54 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 60 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 64 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 69 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 76 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 80 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 91 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 93 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 97 Type: 2 Num_IB: 31 Num_OB: 26
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 7 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 9 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 38 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 46 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 53 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 55 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 57 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 70 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 71 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 82 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 84 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 86 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 89 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 98 Type: 2 Num_IB: 26 Num_OB: 27
+SenderID: 1 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 5 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 11 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 12 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 13 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 18 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 22 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 26 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 33 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 34 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 39 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 48 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 52 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 56 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 61 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 75 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 77 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 79 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 85 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 94 str_lts: 0.500000 str_stc: 0.500000
+
+
+Index: 99 Type: 2 Num_IB: 26 Num_OB: 27
+SenderID: 2 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 3 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 6 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 14 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 15 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 23 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 24 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 25 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 28 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 31 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 36 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 37 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 41 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 44 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 49 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 50 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 58 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 62 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 65 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 66 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 67 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 73 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 87 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 88 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 90 str_lts: 0.500000 str_stc: 0.500000
+SenderID: 96 str_lts: 0.500000 str_stc: 0.500000
+
+
